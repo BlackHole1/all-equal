@@ -1,0 +1,23 @@
+{
+  "name": "all-equal",
+  "version": "1.0.0",
+  "description": "all-equal",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackHole1/all-equal.git"
+  },
+  "author": "Black-Hole <158blackhole@gmail.com> (http://bugs.cc/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BlackHole1/all-equal/issues"
+  },
+  "homepage": "https://github.com/BlackHole1/all-equal#readme",
+  "devDependencies": {
+    "mocha": "^4.0.1",
+    "should": "^13.1.3"
+  }
+}
