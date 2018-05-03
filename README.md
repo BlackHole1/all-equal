@@ -1,8 +1,8 @@
 # all-equal
-[[![Node Version][https://img.shields.io/badge/node.js-%3E=_6-green.svg]][http://nodejs.org/download/]
+[![Node Version](https://img.shields.io/badge/node.js-%3E=_6-green.svg)](https://travis-ci.org/BlackHole1/all-equal)
 [![Build Status](https://travis-ci.org/BlackHole1/all-equal.svg?branch=master)](https://travis-ci.org/BlackHole1/all-equal)
-[![npm](https://img.shields.io/npm/v/npm.svg)](https://github.com/BlackHole1/all-equal)
-[![npm](https://img.shields.io/npm/dm/localeval.svg)](https://github.com/BlackHole1/all-equal)
+[![Coverage Status](https://coveralls.io/repos/github/BlackHole1/all-equal/badge.svg?branch=master)](https://coveralls.io/github/BlackHole1/all-equal?branch=master)
+[![Npm Download](https://img.shields.io/npm/dm/localeval.svg)](https://github.com/BlackHole1/all-equal)
 
 [![NPM](https://nodei.co/npm/all-equal.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/all-equal/)
 
